@@ -1,0 +1,2 @@
+alias Будівництво='mkdir AA'
+alias дата_зібрати='date "+%d-%m-%y" '
